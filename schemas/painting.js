@@ -39,7 +39,7 @@ export default {
     {
       name: "image",
       title: "Image",
-      type: "image",
+      type: "image",dwad
       options: {
         hotspot: true,
       },
