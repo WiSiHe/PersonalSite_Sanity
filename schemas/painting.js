@@ -44,6 +44,8 @@ export default {
         hotspot: true,
       },
     },
+    { title: "Featured", name: "featured", type: "boolean" },
+    { title: "Aspect Ratio", name: "aspectRatio", type: "string" },
     {
       title: "Redbubble URL",
       name: "redbubbleUrl",

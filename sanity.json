@@ -16,7 +16,8 @@
     "@sanity/google-maps-input",
     "autocomplete-tags",
     "@sanity/vision",
-    "media-library"
+    "media-library",
+    "media"
   ],
   "env": {
     "development": {
