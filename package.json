@@ -1,7 +1,7 @@
 {
   "name": "personalsite",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "package.json",
   "author": "Henrik Wilhelm Sissener <hws902@gmail.com>",
